@@ -29,7 +29,9 @@ if not, you can run:
 
     mkdir -p ~/.vim/colors
 
-and then copy viewsource.vim into that directory.
+and then copy
+[viewsource.vim](https://raw.githubusercontent.com/xenomachina/vim-viewsource/master/colors/viewsource.vim)
+into that directory.
 
 Finally, add `colorscheme viewsource` to your `.vimrc`.
 
