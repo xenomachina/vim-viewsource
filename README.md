@@ -7,10 +7,10 @@ Navigator and Vim, and then adjusting Vim's colors until it matched
 Navigator's. Other colors were added over time based on what I thought
 looked good with the existing set.
 
-I've been using this colorscheme for many years (probably since 1996 or
-so), and it has been tweaked considerably over the years.  For the first
-few years it was just a section of my `.vimrc`.  Unfortunately, I did
-not think to keep version history.
+I've been using this colorscheme for many years (since Vim first added syntax
+highlighting) and it has been tweaked considerably over the years.  For the
+first few years it was just a section of my `.vimrc`.  Unfortunately, I did not
+think to keep version history.
 
 It is a fairly well-tested colorscheme, given that I've used it for many
 filetypes and purposes over the years: html, c, cpp, java, python, diff,
